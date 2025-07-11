@@ -37,7 +37,7 @@ I'm a passionate software engineer who thrives on building scalable solutions in
   <img src="https://github-readme-stats.vercel.app/api?username=Dave-Ace&show=reviews,prs_merged,&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&cache_seconds=1" alt="Dave-Ace's GitHub stats" />
   <br>
   <img 
-  src="https://github-readme-stats.vercel.app/api?username=Dave-Ace&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"
+  src="https://github-readme-stats.vercel.app/api?username=Dave-Ace&show=reviews,prs_merged&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"
   alt="GitHub Stats" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dave-Ace&theme=tokyonight" alt="Dave-Ace's GitHub streak" />
