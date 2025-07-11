@@ -35,12 +35,12 @@ I'm a passionate software engineer who thrives on building scalable solutions in
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dave-Ace&show_icons=true&theme=tokyonight&hide_title=true&count_private=true"" alt="Dave-Ace's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dave-Ace&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" alt="Dave-Ace's GitHub stats" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dave-Ace&theme=tokyonight" alt="Dave-Ace's GitHub streak" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dave-Ace&layout=compact&theme=tokyonight" alt="Top Languages" />
-  stats" />
+
 </p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Dave-Ace&theme=tokyonight&column=7&margin-w=5&no-frame=true" />
