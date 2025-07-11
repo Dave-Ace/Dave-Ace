@@ -33,6 +33,7 @@ I'm a passionate software engineer who thrives on building scalable solutions in
 ---
 
 ### 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=Dave-Ace&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dave-Ace&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&cache_seconds=1" alt="Dave-Ace's GitHub stats" />
   
