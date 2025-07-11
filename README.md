@@ -41,7 +41,9 @@ I'm a passionate software engineer who thrives on building scalable solutions in
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dave-Ace&layout=compact&theme=tokyonight" alt="Top Languages" />
   stats" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Dave-Ace&theme=tokyonight&no-frame=true&title=Commits,PullRequest,Review" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dave-Ace&theme=tokyonight&column=7&margin-w=5&no-frame=true" />
 </p>
 
 
