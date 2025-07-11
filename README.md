@@ -33,7 +33,6 @@ I'm a passionate software engineer who thrives on building scalable solutions in
 ---
 
 ### 📊 GitHub Stats
-![PR Reviews](https://metrics.lecoq.io/Dave-Ace?reviews=1)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dave-Ace&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&cache_seconds=1" alt="Dave-Ace's GitHub stats" />
   
