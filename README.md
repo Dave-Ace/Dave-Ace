@@ -46,7 +46,7 @@ I'm a passionate software engineer who thrives on building scalable solutions in
 
 </p>
 
-
+[![](https://visitcount.itsvg.in/api?id=Dave-Ace&icon=7&color=8)](https://visitcount.itsvg.in)
 
 ---
 
